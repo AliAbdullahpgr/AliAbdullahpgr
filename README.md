@@ -10,6 +10,7 @@
 
 - 🌱 I am a **MERN Stack Developer**
 - 💻 Strong foundation in **C++** and **DSA**
+- 👯 I’m looking to collaborate with other developers
 - 🎯 Effective Problem Solver & Critical Thinker
 - 🥅 2025 Goals: Build impactful and unique projects
 - ⚡ Fun fact: I love anime, cats and building stuff
