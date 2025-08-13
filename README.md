@@ -12,7 +12,7 @@
 - 💻 Strong foundation in **C++** and **DSA**
 - 🎯 Effective Problem Solver & Critical Thinker
 - 🥅 2025 Goals: Build impactful and unique projects
-- ⚡ Fun fact: I love anime, cats and conversations
+- ⚡ Fun fact: I love anime, cats and building stuff
 
 ---
 
