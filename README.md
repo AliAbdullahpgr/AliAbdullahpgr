@@ -51,7 +51,7 @@
 
 - **MNS University of Agriculture, Multan**
 - Bachelor of Science in Computer Science
-- 📊 **Current CGPA:** 3.64  
+- 3.64  
 - 2023 - 2027
 
 ---
